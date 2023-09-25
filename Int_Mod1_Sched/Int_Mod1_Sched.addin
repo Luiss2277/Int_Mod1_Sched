@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Int_Mod1_Sched - Command 1</Text>
+    <Description>Some description for Int_Mod1_Sched</Description>
+    <Assembly>Int_Mod1_Sched.dll</Assembly>
+    <FullClassName>Int_Mod1_Sched.Command1</FullClassName>
+    <ClientId>023ae868-11a0-406f-ada1-3f71499dd87a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Int_Mod1_Sched - Command 2</Text>
+    <Description>Some description for Int_Mod1_Sched</Description>
+    <Assembly>Int_Mod1_Sched.dll</Assembly>
+    <FullClassName>Int_Mod1_Sched.Command2</FullClassName>
+    <ClientId>971e7e6d-5fad-4b09-b521-e4b6f449fb85</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Int_Mod1_Sched</Name>
+    <Assembly>Int_Mod1_Sched.dll</Assembly>
+    <FullClassName>Int_Mod1_Sched.App</FullClassName>
+    <ClientId>1e577d0d-e77c-406d-8d83-f715c043cd2f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
